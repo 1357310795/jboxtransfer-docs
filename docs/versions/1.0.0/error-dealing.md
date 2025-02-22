@@ -5,22 +5,32 @@
 - 错误提示：`Upload not found or not belong you`
 - 错误原因：此项目可能已经上传完成
 - 解决方法：在新云盘网页中检查此项目是否存在，若存在，则可取消任务；若不存在，请选择从头重试
+![](https://s2.loli.net/2023/10/16/uSNRwVfqZD24UpJ.png)
 ***
 - 错误提示：`Uploaded file has a different crc64 value`
 - 错误原因：校验值检查失败
 - 解决方法：从头重试
+![](https://s2.loli.net/2023/10/16/sv5YRXk3Lr28uym.png)
 ***
 - 错误提示：`下载流校验值不匹配`
 - 错误原因：校验值检查失败
 - 解决方法：从头重试
+![](https://s2.loli.net/2023/10/16/LA4mnaVG5psJqxC.png)
+***
+- 错误提示：`savePoint is not valid`
+- 错误原因：程序内部数据库操作错误，且易造成严重后果
+- 解决方法：若此错误是刚刚出现，请重启程序，错误项目从头重试；若此错误已经出现很久，请不要关闭程序，[向开发者寻求帮助](./feedback)（关闭程序将导致不可逆转的数据损失）
+![](https://s2.loli.net/2023/10/16/wWftTiqgaNroEe8.png)
 ***
 - 错误提示：`不知道这样的主机。`
 - 错误原因：未连接到网络
 - 解决方法：检查是否已连接到网络、jBox 网页端是否正常工作，然后点击重试（保留进度）
+![](https://s2.loli.net/2023/10/16/4SVgOANfPXZ6k7C.png)
 ***
 - 错误提示：`下载时返回数据类型错误`
 - 错误原因：未处于校园网环境
 - 解决方法：检查是否已连接到校园网、jBox 网页端是否正常工作，然后点击重试（保留进度）
+![](https://s2.loli.net/2023/10/16/Lm9frZA8W16HtlO.png)
 ***
 
 ## 程序运行时错误

@@ -1,0 +1,32 @@
+[
+        {
+          "text": "开始",
+          "items": [
+            { "text": "下载安装指南", "link": "/download" },
+            { "text": "快速上手", "link": "/quickstart" }
+          ]
+        },
+        {
+          "text": "使用",
+          "items": [
+            {"text": "开始页", "link": "/page-start" },
+            {"text": "传输列表页", "link": "/page-list" },
+            {"text": "设置页", "link": "/page-settings" },
+            {"text": "数据库操作页", "link": "/page-dbop" },
+            {"text": "异常处理", "link": "/error-dealing" }
+          ]
+        },
+        {
+          "text": "高级",
+          "items": [
+            { "text": "数据库模型与转移逻辑介绍", "link": "/internal" }
+          ]
+        },
+        {
+          "text": "更多",
+          "items": [
+            { "text": "Q&A", "link": "/qa" },
+            { "text": "问题反馈", "link": "/feedback" }
+          ]
+        }
+      ]
