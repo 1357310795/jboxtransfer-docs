@@ -1,11 +1,14 @@
 import { DefaultTheme, defineConfig } from 'vitepress'
 import defineVersionedConfig, { Versioned } from 'vitepress-versioning-plugin'
 import * as url from 'url';
+import { loadEnv } from 'vitepress';
+
+const env = loadEnv('', process.cwd());
 
 export default defineVersionedConfig({
   title: "JboxTransfer 说明文档",
   description: "高效、安全、便捷地转移您的文件",
-  base: '/jboxtransfer/',
+  base: env.VITE_BASE_URL,
   themeConfig: {
     logo: "/assets/jboxtransfer.png",
     siteTitle: 'JboxTransfer 说明文档',
