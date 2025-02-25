@@ -64,4 +64,7 @@ export default defineVersionedConfig({
       processSidebarURLs: true,
     }
   },
+  ignoreDeadLinks: [
+    /\/bin/
+  ],
 }, url.fileURLToPath(new URL('.', import.meta.url)))
