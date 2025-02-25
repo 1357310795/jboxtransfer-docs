@@ -10,7 +10,7 @@ export default defineVersionedConfig({
   description: "高效、安全、便捷地转移您的文件",
   base: env.VITE_BASE_URL,
   themeConfig: {
-    logo: "/assets/jboxtransfer.png",
+    logo: "/jboxtransfer.png",
     siteTitle: 'JboxTransfer 说明文档',
     nav: [
       { text: '主页', link: '/' },

@@ -7,7 +7,7 @@ hero:
   text: "说明文档"
   tagline: 高效、安全、便捷地转移您的文件
   image:
-    src: /assets/jboxtransfer.png
+    src: /jboxtransfer.png
     alt: VitePress
   actions:
     - theme: brand
