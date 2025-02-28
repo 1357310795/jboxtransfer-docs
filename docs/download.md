@@ -3,7 +3,7 @@
 1、点击下面的链接下载：
 <div class="tip custom-block" style="padding-top: 16px; padding-bottom: 16px;font-size: 24px; line-height: 30px">
 
-[JboxTransfer.Webview2.Installer-win-any-no-runtime.exe](/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)
+[JboxTransfer.Webview2.Installer-win-any-no-runtime.exe](https://pan.sjtu.edu.cn/jboxtransfer/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)
 </div>
 
 2、双击运行下载的安装包文件
@@ -37,9 +37,9 @@
 
 |类型|下载点①|下载点②|下载点③|
 |---|---|---|---|
-|Windows 统一安装包-在线安装依赖库|[直链](/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)|[jBox]()|[pan]()|
-|Windows 64位便携版-无依赖库|[直链](/bin/JboxTransfer.Server-win-x64-no-runtime.zip)|[jBox]()|[pan]()|
-|Windows 64位便携版-自带依赖库|[直链](/bin/JboxTransfer.Server-win-x64-with-runtime.zip)|[jBox]()|[pan]()|
+|Windows 统一安装包-在线安装依赖库|[直链](https://pan.sjtu.edu.cn/jboxtransfer/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)|[jBox](https://jbox.sjtu.edu.cn/l/4HHIxJ)|[pan](#)|
+|Windows 64位便携版-无依赖库|[直链](https://pan.sjtu.edu.cn/jboxtransfer/bin/JboxTransfer.Server-win-x64-no-runtime.zip)|[jBox](https://jbox.sjtu.edu.cn/l/H1DdL9)|[pan](#)|
+|Windows 64位便携版-自带依赖库|[直链](https://pan.sjtu.edu.cn/jboxtransfer/bin/JboxTransfer.Server-win-x64-with-runtime.zip)|[jBox](https://jbox.sjtu.edu.cn/l/UHomt7)|[pan](#)|
 
 更多版本可以在 [Github Releases](https://github.com/1357310795/JboxTransfer) 找到。
 
