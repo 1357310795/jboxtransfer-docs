@@ -62,7 +62,7 @@ export default defineVersionedConfig({
     },
   },
   versioning: {
-    latestVersion: "2.0.0",
+    latestVersion: "2.0.1",
     sidebars: {
       processSidebarURLs: true,
     }

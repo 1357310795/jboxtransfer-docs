@@ -3,7 +3,7 @@
 1、点击下面的链接下载：
 <div class="tip custom-block" style="padding-top: 16px; padding-bottom: 16px;font-size: 24px; line-height: 30px">
 
-[JboxTransfer.Server.Installer-win-any-no-runtime.exe](/bin/JboxTransfer.Server.Installer-win-any-no-runtime.exe)
+[JboxTransfer.Webview2.Installer-win-any-no-runtime.exe](/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)
 </div>
 
 2、双击运行下载的安装包文件
@@ -37,7 +37,7 @@
 
 |类型|下载点①|下载点②|下载点③|
 |---|---|---|---|
-|Windows 统一安装包-在线安装依赖库|[直链](/bin/JboxTransfer.Server.Installer-win-any-no-runtime.exe)|[jBox]()|[pan]()|
+|Windows 统一安装包-在线安装依赖库|[直链](/bin/JboxTransfer.Webview2.Installer-win-any-no-runtime.exe)|[jBox]()|[pan]()|
 |Windows 64位便携版-无依赖库|[直链](/bin/JboxTransfer.Server-win-x64-no-runtime.zip)|[jBox]()|[pan]()|
 |Windows 64位便携版-自带依赖库|[直链](/bin/JboxTransfer.Server-win-x64-with-runtime.zip)|[jBox]()|[pan]()|
 
@@ -45,6 +45,11 @@
 
 ## 在 Linux/MacOS 上运行
 请从 [Github Releases](https://github.com/1357310795/JboxTransfer) 下载对应版本后，直接运行。如果您选择无依赖库的版本，可能需要先[安装依赖库](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)。
+
+运行命令：
+```
+./JboxTransfer.Server
+```
 
 ## 在树莓派等设备上运行
 这是完全可行的，但是您可能需要安装 SDK 并从源码构建。请自行查阅相关资料。
