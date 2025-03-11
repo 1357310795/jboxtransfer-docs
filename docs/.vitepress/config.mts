@@ -52,6 +52,7 @@ export default defineVersionedConfig({
           "text": "更多",
           "items": [
             { "text": "Q&A", "link": "/qa" },
+            { "text": "其他登录方式", "link": "/qa" },
             { "text": "问题反馈", "link": "/feedback" }
           ]
         }
@@ -62,7 +63,7 @@ export default defineVersionedConfig({
     },
   },
   versioning: {
-    latestVersion: "2.0.1",
+    latestVersion: "2.0.2",
     sidebars: {
       processSidebarURLs: true,
     }
